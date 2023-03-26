@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    Tanmay Jain | Data Analyst | UBC MBAN'23 | Ex-InMobi | BITS Pilani<br>
-    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
-    <style>
+   <style>
       img {
         max-width: 100%;
         height: auto;
       }
     </style>
+  <head>
+    <meta charset="utf-8">
+    Tanmay Jain | Data Analyst | UBC MBAN'23 | Ex-InMobi | BITS Pilani<br>
+    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
   </head>
   <body>
     <header>
