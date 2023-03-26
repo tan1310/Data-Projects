@@ -22,7 +22,6 @@
       - Strong dashboarding skills and proficient in analytics tools like SQL, Python and Power BI.<br>
       - Excellent collaborator with strong interpersonal and communication skills.<br>
       - A constant learner.<br>
-      
     </main>
     <footer>
       <p>&copy; 2023 Tanmay Jain</p>
