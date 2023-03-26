@@ -24,7 +24,7 @@
       - A constant learner.<br>
     </main>
     <footer>
-      <p>&copy; 2023 Tanmay Jain</p>
+      <p><br>&copy; 2023 Tanmay Jain</p>
     </footer>
   </body>
 </html>
