@@ -8,11 +8,6 @@
   <body>
     <header>
       <h1>My Data Portfolio</h1>
-      <nav>
-        <ul>
-           <li><a href="https://github.com/tan1310/Data-Projects/blob/main/BABS%20502_Final_Tanmay.ipynb">Machine Learning Project</a></li>
-        </ul>
-      </nav>
     </header>
     <main>
       About me:<br>
@@ -21,7 +16,12 @@
       - Deep understanding of user and campaign data for generating actionable insights and build target audiences.<br>
       - Strong dashboarding skills and proficient in analytics tools like SQL, Python and Power BI.<br>
       - Excellent collaborator with strong interpersonal and communication skills.<br>
-      - A constant learner.<br>
+      - A constant learner.<br>     
+      <nav>
+        <ul>
+           <li><a href="https://github.com/tan1310/Data-Projects/blob/main/BABS%20502_Final_Tanmay.ipynb">Machine Learning Project</a></li>
+        </ul>
+      </nav>
     </main>
     <footer>
       <p><br>&copy; 2023 Tanmay Jain</p>
