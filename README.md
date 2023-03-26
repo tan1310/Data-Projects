@@ -7,10 +7,9 @@
   </head>
   <body>
     <header>
-      <h1>My Data Portfolio</h1>
+      <h1>About me!</h1>
     </header>
     <main>
-      About me:<br>
 <!--       <img src="/MBAN-TANMAY%20JAIN%20(5).jpg"> -->
       - 4+ years of analytics experience in Ad-tech industry.<br>
       - Built analytics capabilities to solve business problems and drive strategic business decisions across teams.<br>
