@@ -2,14 +2,8 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Tanmay Jain | Data Analyst | UBC MBAN'23 | Ex-InMobi | BITS Pilani</title><br>
-    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
-    <style>
-      img {
-        max-width: 500px;
-        height: auto;
-      }
-    </style> 
+    Tanmay Jain | Data Analyst | UBC MBAN'23 | Ex-InMobi | BITS Pilani<br>
+    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}"> 
   </head>
   <body>
     <header>
@@ -17,7 +11,7 @@
     </header>
     <main>
       About me:<br>
-      <img src="/MBAN-TANMAY%20JAIN%20(5).jpg">
+<!--       <img src="/MBAN-TANMAY%20JAIN%20(5).jpg"> -->
       - 4+ years of analytics experience in Ad-tech industry.<br>
       - Built analytics capabilities to solve business problems and drive strategic business decisions across teams.<br>
       - Deep understanding of user and campaign data for generating actionable insights and build target audiences.<br>
