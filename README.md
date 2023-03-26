@@ -11,7 +11,7 @@
     </header>
     <main>
       About me:<br>
-      <img src="{{ "tan1310/Data-Projects/blob/main/MBAN-TANMAY%20JAIN%20(5).jpg"}}" alt="Tanmay">
+      <img src="{{ "https://github.com/tan1310/Data-Projects/blob/main/MBAN-TANMAY%20JAIN%20(5).jpg"}}">
       - 4+ years of analytics experience in Ad-tech industry.<br>
       - Built analytics capabilities to solve business problems and drive strategic business decisions across teams.<br>
       - Deep understanding of user and campaign data for generating actionable insights and build target audiences.<br>
