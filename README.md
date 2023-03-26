@@ -2,21 +2,17 @@
 <html>
   <head>
     <meta charset="utf-8">
-    Tanmay Jain | Data Analyst | UBC MBAN'23 | Ex-InMobi | BITS Pilani
+    Tanmay Jain | Data Analyst | UBC MBAN'23 | Ex-InMobi | BITS Pilani<br>
     <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
   </head>
   <body>
     <header>
-      <h1>My Data Portfolio</h1><br>
+      <h1>My Data Portfolio</h1>
       <nav>
         <ul>
-          {% comment %}
-          {% for page in site.pages %}
-          {% endcomment %}
+   
             <li><a href="https://github.com/tan1310/Data-Projects/blob/main/BABS%20502_Final_Tanmay.ipynb">Machine Learning Project</a></li>
-          {% comment %}
-          {% endfor %}
-          {% endcomment %}
+ 
         </ul>
       </nav>
     </header>
