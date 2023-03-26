@@ -10,9 +10,7 @@
       <h1>My Data Portfolio</h1>
       <nav>
         <ul>
-   
-            <li><a href="https://github.com/tan1310/Data-Projects/blob/main/BABS%20502_Final_Tanmay.ipynb">Machine Learning Project</a></li>
- 
+           <li><a href="https://github.com/tan1310/Data-Projects/blob/main/BABS%20502_Final_Tanmay.ipynb">Machine Learning Project</a></li>
         </ul>
       </nav>
     </header>
