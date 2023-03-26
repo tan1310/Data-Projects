@@ -17,11 +17,12 @@
       - Deep understanding of user and campaign data for generating actionable insights and build target audiences.<br>
       - Strong dashboarding skills and proficient in analytics tools like SQL, Python and Power BI.<br>
       - Excellent collaborator with strong interpersonal and communication skills.<br>
-      - A constant learner.<br>  
-      Project desscriptions
+      - A constant learner.<br><br> 
+      Project descriptions:
       <nav>
         <ul>
-           <li><a href="https://github.com/tan1310/Data-Projects/blob/main/BABS%20502_Final_Tanmay.ipynb">Machine Learning Project</a></li>
+           <li><a href="https://github.com/tan1310/Data-Projects/blob/main/BAIT509-Project-Final-Tanmay.ipynb">Predicting Mortality Rate of lung cancer patients in the US</a></li>
+           <li><a href="https://github.com/tan1310/Data-Projects/blob/main/BABS%20502_Final_Tanmay.ipynb">Forecasting Energy usage (KwH) at YVR Airport</a></li>
         </ul>
       </nav>
     </main>
