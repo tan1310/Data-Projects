@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    Tanmay Jain | Data Analyst | UBC MBAN'23 | Ex-InMobi | BITS Pilani<br>
+    <title>Tanmay Jain | Data Analyst | UBC MBAN'23 | Ex-InMobi | BITS Pilani</title><br>
     <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
     <style>
       img {
