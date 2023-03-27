@@ -6,7 +6,8 @@
   </head>
   <body>
     <header>
-      <h1>Tanmay Jain<h2>Data Analyst | UBC MBAN'23 | BITS Pilani</h2></h1>
+      <h1>Tanmay Jain</h1>
+      <h2>Data Analyst | UBC MBAN'23 | BITS Pilani</h2>
     </header>
     <main>
 <!--       <img src="/MBAN-TANMAY%20JAIN%20(5).jpg"> -->
