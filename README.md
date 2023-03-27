@@ -1,5 +1,4 @@
-## Tanmay Jain
-### Data Analyst | UBC MBAN'23 | BITS Pilani</h2>
+## Tanmay Jain | #### Data Analyst | UBC MBAN'23 | BITS Pilani</h2>
    
 - 4+ years of analytics experience in Ad-tech industry.<br>
 - Built analytics capabilities to solve business problems and drive strategic business decisions across teams.<br>
