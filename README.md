@@ -2,12 +2,11 @@
 <html>
   <head>
     <meta charset="utf-8">
-    Tanmay Jain | Data Analyst | UBC MBAN'23 | Ex-InMobi | BITS Pilani<br>
     <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}"> 
   </head>
   <body>
     <header>
-      <h1>About me!</h1>
+      <h1>Tanmay Jain | Data Analyst | UBC MBAN'23 | BITS Pilani</h1>
     </header>
     <main>
 <!--       <img src="/MBAN-TANMAY%20JAIN%20(5).jpg"> -->
