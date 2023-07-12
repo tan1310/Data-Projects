@@ -8,7 +8,10 @@
 - Excellent collaborator with strong interpersonal and communication skills.<br>
 - A constant learner.<br><br> 
 
-Project descriptions:
+Python based Projects: 
 1. [Predicting Mortality Rate of lung cancer patients in the US.](https://github.com/tan1310/Data-Projects/blob/main/BAIT509-Project-Final-Tanmay.ipynb)
-2. [Forecasting Energy usage (KwH) at YVR Airport.](https://github.com/tan1310/Data-Projects/blob/main/BABS%20502_Final_Tanmay.ipynb)
-3. [Twitter Sentiment Analysis](https://github.com/tan1310/Data-Projects/blob/main/BAIT509-Project-Final-Tanmay.ipynb)
+2. [Twitter Sentiment Analysis](https://github.com/tan1310/Data-Projects/blob/main/BAIT509-Project-Final-Tanmay.ipynb)
+
+R based Projects: 
+1. [Forecasting Energy usage (KwH) at YVR Airport.](https://github.com/tan1310/Data-Projects/blob/main/BABS%20502_Final_Tanmay.ipynb)
+
