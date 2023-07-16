@@ -9,8 +9,8 @@
 - A constant learner.<br><br> 
 
 Python based Projects: 
-1. [Predicting Mortality Rate of lung cancer patients in the US.](https://github.com/tan1310/Data-Projects/blob/main/BAIT509-Project-Final-Tanmay.ipynb)
-2. [Twitter Sentiment Analysis](https://github.com/tan1310/Data-Projects/blob/main/BAIT509-Project-Final-Tanmay.ipynb)
+1. [Predicting Mortality Rate of lung cancer patients in the US.](https://github.com/tan1310/Data-Projects/blob/main/ML_Project_LungCancer.ipynb)
+2. [Twitter Sentiment Analysis](https://github.com/tan1310/Data-Projects/blob/main/Twitter%20Project.ipynb)
 
 R based Projects: 
 1. [Forecasting Energy usage (KwH) at YVR Airport.](https://github.com/tan1310/Data-Projects/blob/main/BABS%20502_Final_Tanmay.ipynb)
