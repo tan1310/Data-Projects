@@ -15,3 +15,5 @@ Python based Projects:
 R based Projects: 
 1. [Forecasting Energy usage (KwH) at YVR Airport.](https://github.com/tan1310/Data-Projects/blob/main/YVR_EnergyUsage_R.ipynb)
 
+Other Analytics Projects:
+1. [People Analytics](https://github.com/tan1310/Data-Projects/blob/main/People_Analytics.pptx) (To view the project ppt, download by clicking 'View Raw')
