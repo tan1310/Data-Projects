@@ -13,5 +13,5 @@ Python based Projects:
 2. [Twitter Sentiment Analysis](https://github.com/tan1310/Data-Projects/blob/main/Twitter%20Project.ipynb)
 
 R based Projects: 
-1. [Forecasting Energy usage (KwH) at YVR Airport.](https://github.com/tan1310/Data-Projects/blob/main/BABS%20502_Final_Tanmay.ipynb)
+1. [Forecasting Energy usage (KwH) at YVR Airport.](https://github.com/tan1310/Data-Projects/blob/main/YVR_EnergyUsage_R.ipynb)
 
